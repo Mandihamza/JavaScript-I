@@ -107,7 +107,7 @@ const antonietta = {
   }
 };
 
-console.log(antonietta.multiplyNums(3,4));
+//console.log(antonietta.multiplyNums(3,4));
 
 // === Great work! === Head over to the the arrays.js file or take a look at the stretch challenge
 
